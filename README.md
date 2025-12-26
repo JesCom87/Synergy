@@ -177,8 +177,8 @@
 • Tree (Ordered, Labeled)<br>
 • Syntax (Manifest)<br>
 
-<p>1) (Mid)<br
-• System (Settings, Configs, Utilities.)</p
+<p>1) (Mid)<br>
+• System (Settings, Configs, Utilities.)</p>
 
 <p>2) (Soft-Mid)<br>
 • Account (Nickname, Password)<br>
@@ -201,7 +201,7 @@
 #### Tier (SubTier):
 
 <p>3) (Hard)<br>
-• Container (Source)<br>
+• Container (Root)<br>
 • File (Containers)<br>
 • Module (Files)<br>
 • Library (Modules)<br>
