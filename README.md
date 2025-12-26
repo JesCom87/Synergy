@@ -159,7 +159,7 @@
 ----------------------------------------------------
 ----------------------------------------------------
 
-<p>Kit (SubKit):<br>
+<p>#### Kit (SubKit):<br>
 3) (Hard)<br>
 • Boot (Bootloader, Bootstrapper)<br>
 • Driver (Input, Output)<br>
@@ -197,7 +197,7 @@
 
 ----------------------------------------------------
 
-<p>Tier (SubTier):<br>
+<p>#### Tier (SubTier):<br>
 3) (Hard)<br>
 • Container (Source)<br>
 • File (Containers)<br>
@@ -223,7 +223,7 @@
 
 --------------------------------------------------
 
-<p>Locale:<br>
+<p>#### Locale:<br>
 3) (Hard)<br>
 • Database</p>
 
@@ -241,7 +241,7 @@
 
 --------------------------------------------------
 
-<p>Connect:<br>
+<p>#### Connect:<br>
 2) Wireless:<br>
 • Broadband, Broadcast.</p>
 
