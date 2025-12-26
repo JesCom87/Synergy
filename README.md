@@ -188,7 +188,7 @@
 • Forum (Questions, Answers)<br>
 • Community (News)</p>
 
-<p3) (Soft)<br>
+<p>3) (Soft)<br>
 • Desk (Video, Image, Audio)<br>
 • Office (Slide, Sheet, Script)<br>
 • Work (Design, Create)<br>
