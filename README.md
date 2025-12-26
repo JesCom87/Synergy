@@ -38,9 +38,9 @@
 <p>1) Maestro (GUI)<br>
 2) Queue (CLI)<br>
 3) Jargon (IDE)<br>
-4) Heed (TE)<br>
-5) Slang (Lingo)<br>
-6) Warp (Forge)</p>
+4) Idiom (TE)<br>
+5) Swell (Build)<br>
+6) Warp (Config)</p>
 
 ##### Draft
 <p>7) SimuSol (Full System Emulation)<br>
